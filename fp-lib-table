@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name di-parts)(type KiCad)(uri "/Users/blake/Documents/Development/Keyboard/KiCad Libs/di-parts")(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos)(options "")(descr ""))
+)
